@@ -1,4 +1,5 @@
 # Frontend Mentor - Stats preview card component
+[Check here...](https://ccp-stats-preview.netlify.app/)
 
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
